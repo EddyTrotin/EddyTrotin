@@ -1,4 +1,4 @@
-[![Eddy Trotin Github Top Banner](./banner_top.png)](https://www.eddytrotin.dev/)
+[![Eddy Trotin Github Top Banner](./banner_top.png)](https://eddytrotin.github.io/)
 
 <br>
 
