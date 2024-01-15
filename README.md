@@ -56,4 +56,4 @@ Now I harness the power of Artificial Intelligence to elevate my productivity an
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/eddy-trotin-481141119)
 [![](https://img.shields.io/badge/etrotin-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eddytrotin.github.io/)
 
-![Eddy Trotin Github Bot Banner](https://github.com/EddyTrotin/EddyTrotin/blob/master/BANNER_BOT.png)
+[![Eddy Trotin Github Bot Banner](https://github.com/EddyTrotin/EddyTrotin/blob/master/BANNER_BOT.png)](https://eddytrotin.github.io/)
