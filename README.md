@@ -1,6 +1,4 @@
-👋 Hello, world!
-
-I'm Eddy, a passionate Full-Stack Developer.
+👋 Hello, world! I'm Eddy, a passionate Full-Stack Developer.
 
 🔭 My experience spans across web development, micro-service applications, database management, and user-centric designs.
 
