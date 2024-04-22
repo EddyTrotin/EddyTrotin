@@ -1,7 +1,3 @@
-[![Eddy Trotin Github Top Banner](https://github.com/EddyTrotin/EddyTrotin/blob/master/BANNER_TOP.png)](https://eddytrotin.github.io/)
-
-<br>
-
 👋 Hello, world!
 
 I'm Eddy, a passionate Full-Stack Developer.
@@ -10,34 +6,7 @@ I'm Eddy, a passionate Full-Stack Developer.
 
 🚀 I strongly believe in writing clean, maintainable code that respects industry standards and best practices.
 
-💡 I constantly look forward to learning and implementing the latest tech trends.
-
-</br>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Jest](https://img.shields.io/badge/Jest-000?logo=Jest&logoColor=red)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Prisma](https://img.shields.io/badge/prisma-000?logo=prisma)
-![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
-![Mongodb](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
-![JWT](https://img.shields.io/badge/JWT-000?logo=json-web-tokens&logoColor=pink)
-![HTML](https://img.shields.io/badge/HTML-000?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=blue)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/Vue.js-000?logo=vue.js)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?logo=tailwind-css)
-![Prettier](https://img.shields.io/badge/Prettier-000?logo=prettier)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Jenkins](https://img.shields.io/badge/Jenkins-000?logo=Jenkins)
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![Snyk](https://img.shields.io/badge/Snyk-000?logo=snyk&logoColor=be957a)
-![Stripe](https://img.shields.io/badge/Stripe-000?logo=Stripe)
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?logo=openai&logoColor=green)
+💡 I constantly look forward to learning and implementing new technologies.
 
 </br>
 
