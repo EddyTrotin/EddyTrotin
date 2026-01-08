@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.eddy.trotin@outlook.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/eddy-trotin-481141119)
 [![](https://img.shields.io/badge/etrotin-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eddytrotin.github.io/)
-[![](https://img.shields.io/badge/Bento-03c9a9?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/eddytrotin)
 
 
 [![Eddy Trotin Github Bot Banner](https://github.com/EddyTrotin/EddyTrotin/blob/master/BANNER_BOT.png)](https://eddytrotin.github.io/)
